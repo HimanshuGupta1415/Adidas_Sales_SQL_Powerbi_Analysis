@@ -6,12 +6,12 @@ This project presents a comprehensive sales analysis of Adidas US retail data us
 🔷 Project Title
 Adidas US Sales Analytics Dashboard (SQL + Power BI)
 
-📊 Dashboard Preview
-Dashboard
 
-📂 Power BI File
-You can download the Power BI template file here:
-👉 Download Dashboard
+![Dashboard](ADIDAS%20Retail%20Analysis%20Dashboard%20Image.png)
+
+
+
+👉 [Download Dashboard](ADIDAS%20SALES%20PBIT.pbit)
 
 ⚠️ Note: The dataset is not included. Please connect your own dataset when opening the .pbit file.
 
@@ -61,6 +61,8 @@ Interactive dashboard with key KPIs:
 * Used GROUP BY for region, state, and product-level analysis
 * Implemented time-based analysis using DATE functions
 * Used window functions for percentage contribution
+
+![SQL Output](Adidas%20SQL%20Query%20Image.png)
 
 📈 Business Impact
 
